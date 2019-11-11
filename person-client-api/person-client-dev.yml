@@ -3,7 +3,7 @@ spring:
     name: person-client-api
 
 server:
-  port: 8072
+  port: 8099
 
 eureka:
   client:
